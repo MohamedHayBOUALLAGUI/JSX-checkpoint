@@ -1,0 +1,19 @@
+.title{
+    color : red;
+    margin-top: 10% ;
+    margin-bottom:6% ;
+    text-align: center;
+    text-shadow: 4px 4px 6px green;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+video{
+    margin-top: 30%px;
+   margin-left:40%;
+   margin-bottom: 2%;
+}
